@@ -7,6 +7,10 @@ Model-Driven Telemetry is a new approach for network monitoring in which data is
 ### Telemetry Solution
 
 We have configured telegraf to collect cpu and memory utilization besides that we get some interfaces statistics also QOS statistics from cisco routers ASR9k with SW IOS-XR, then logging these metrices in TSDB (influxdb) and our analysis and dashboards was built on Grafana.
+#### Files in this PJ
+> Telegraf_tcp.conf : telegraf configuration file .
+
+> if_desc.py : python script to ssh for routers and switches then map interface name with interface description and interface index for some purposes in data logging and queries it uses nodes.csv file that contain router name and its ip and genertate CSV and Json file .
 
 ![HLD](https://github.com/MichaelTharwat/Cisco_telemetry_PJ/blob/main/HLD.png)
 
