@@ -6,7 +6,7 @@ Model-Driven Telemetry is a new approach for network monitoring in which data is
 
 ### Telemetry Solution
 
-![HLD](https://github.com/MichaelTharwat/Cisco_telemetry_PJ/blob/main/solution.png)
+![HLD](https://github.com/MichaelTharwat/Cisco_telemetry_PJ/blob/main/HLD.png)
 
 
 
