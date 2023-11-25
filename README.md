@@ -10,8 +10,11 @@ We have configured telegraf to collect cpu and memory utilization besides that w
 
 ![HLD](https://github.com/MichaelTharwat/Cisco_telemetry_PJ/blob/main/HLD.png)
 
-![Dashboard Samples](https://github.com/MichaelTharwat/Cisco_telemetry_PJ/blob/main/Grafana_Sample1.jpg)
+### Dashboard Samples
+
+![home](https://github.com/MichaelTharwat/Cisco_telemetry_PJ/blob/main/Grafana_Sample1.jpg)
 ![cpu](https://github.com/MichaelTharwat/Cisco_telemetry_PJ/blob/main/Grafana_Sample2.jpg) 
+![interface](https://github.com/MichaelTharwat/Cisco_telemetry_PJ/blob/main/Grafana_Sample3.jpg)
 
 
 
